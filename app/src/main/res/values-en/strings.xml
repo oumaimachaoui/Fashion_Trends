@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginactivity</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="textview">TextView</string>
+    <string name="robestring">Clothe that covers the body in one piece from the shoulders to the legs. Depending on the material used, it is threaded by the head or feet, and includes or not additional openings (back, front, side) to adjust then more or less close to the body, by a lacing, buttons, staples, zippers, etc.</string>
+    <string name="tricotstring">The knitting consists of loops, called meshes, passed one inside the other. The active meshes are held on needles until they can be blocked by the passage of a new mesh through them.</string>
+    <string name="shoesstring">The shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with appearance originally being tied to function.</string>
+    <string name="accessstring">jewelery such as bracelets, rings, earrings, brooches, necklaces, minaudières, body chains or outfits.for a women ther s nothing better than an accessory to make her </string>
+</resources>

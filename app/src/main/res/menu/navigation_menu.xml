@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:id="@+id/call"
+            android:icon="@drawable/ic_phone"
+            android:title="Appelez nous"/>
+        <item android:id="@+id/mycart"
+            android:icon="@drawable/ic_cart"
+            android:title="Notre Marchet"/>
+    <item android:id="@+id/msg"
+        android:icon="@drawable/ic_message"
+        android:title="Contactez nous"/>
+        <item android:id="@+id/settings"
+            android:icon="@drawable/ic_help"
+            android:title="Aide"/>
+        <item android:id="@+id/main"
+            android:icon="@drawable/ic_menu"
+            android:title="Principal"/>
+        <item android:id="@+id/para"
+            android:icon="@drawable/ic_settings"
+            android:title="Prametres"/>
+        <item android:id="@+id/exit"
+            android:icon="@drawable/ic_exit"
+            android:title="Quitter"/>
+
+    </menu>

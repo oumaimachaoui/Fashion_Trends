@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/counterPanel"
+    android:layout_width="32dp"
+    android:layout_height="32dp"
+    android:background="@drawable/ic_menu_gallery">
+
+    <RelativeLayout
+        android:id="@+id/counterValuePanel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/counterBackground"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_cart" />
+
+        <TextView
+            android:id="@+id/count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/rounded_textview"
+            android:text="1"
+            android:paddingLeft="6px"
+            android:textSize="10sp"
+            android:layout_centerInParent="true"
+            android:textColor="#FFFFFF" />
+    </RelativeLayout>
+
+</FrameLayout>

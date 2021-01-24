@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/param"
+        android:title="Paramètres"  />
+    <item
+        android:id="@+id/acceuil"
+        android:title="acceuil"  />
+    <item
+        android:id="@+id/quit"
+        android:title="Quitter" />
+    <item
+        android:id="@+id/help"
+        android:title="Aide" />
+    <item
+        android:id="@+id/Sign_up"
+        android:title="Sign up" />
+    <item
+        android:id="@+id/market"
+        android:title="Achat" />
+
+</menu>

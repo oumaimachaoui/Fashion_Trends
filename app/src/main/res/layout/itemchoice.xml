@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="4sp">
+    <!--
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="388dp"
+        android:layout_height="235dp"
+        android:layout_gravity="center_vertical"
+        android:padding="3sp"
+        android:src="@drawable/robes" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="387dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="#730d0c0c"
+            android:text="Description"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+-->
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="265dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tops2" />
+
+    <TextView
+        android:id="@+id/txt_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/endblue"
+        android:text="SomeText"
+        android:textColor="#fff" />
+</LinearLayout>
